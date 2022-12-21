@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @UnrealDev16
 - 👀 I’m interested in Website Development , Game Development 
-- 🌱 I’m currently learning CS50 by Harvard University. Planning to learn more by courses such as Web programming , Game development , AI development.   
+- 🌱 I’m currently learning CS50W by Harvard University focused on Website Development  
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me 
 
